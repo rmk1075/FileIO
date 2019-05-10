@@ -6,3 +6,6 @@ build
 /bin/
 /.classpath
 /.project
+
+*.class
+/.settings/
